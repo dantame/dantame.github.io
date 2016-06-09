@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Learn once, apply anywhere"
-published: false
 ---
 
 Over the years I have been lucky to have the opportunity to use many different tools and technologies in my day to day work. For me, this has been hugely important to both my career and continued mental growth. By challenging myself to learn new things I have seen huge leaps in my overall knowledge that I can apply to things that I already know in new and interesting ways that I was previously unaware of.
